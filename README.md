@@ -2,4 +2,4 @@
 
 # Currently Working on
 * Front-end Web Application using Angular, Typescript, Javascript, CSS & Html. 
-* Java Synchronous multithreaded application
+* Java Synchronized multithreaded application
